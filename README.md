@@ -1,3 +1,4 @@
 # corn-point-cloud-completion
 Utilize the PointAttN(https://github.com/ohhhyeahhh/PointAttN) to complete the fragmented point cloud of cron.
-We show the source code of the data production process，model source code will be published soon.
+
+We release the source code of the data production process，model source code will be published soon.
