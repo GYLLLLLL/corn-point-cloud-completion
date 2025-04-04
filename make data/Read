@@ -1,1 +1,4 @@
 This is for making fragmented point cloud
+1.Use convet_json&png_2_ply.py to convert the PNG & json labels & depth map to 3D corn model.
+2.Use new_ply_single.py to generate different size 3D corn models.
+3.Use Original_color_part_ply.py to generate fragmented point cloud.
